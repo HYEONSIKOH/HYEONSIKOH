@@ -4,4 +4,4 @@
 C++ JAVA C
 
 
-![HYEONSIKOH's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark)   
+![HYEONSIKOH's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYEONSIKOH&show_icons=true&theme=dark)   

@@ -5,8 +5,11 @@
 끝까지 달리자
 <br/><br/>
 
+
 <h4>💻 Tech Stack 💻</h4>
-<img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-4FC08D?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=Java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
 <br/><br/>
 ![HYEONSIKOH's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYEONSIKOH&show_icons=true&theme=radical)

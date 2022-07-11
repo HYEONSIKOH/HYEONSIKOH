@@ -1,8 +1,6 @@
 <div align = "center">
 
-상대방은 멀어지는데, 넌 뭐하냐
-
-끝까지 달리자
+SANGMYUNG UNIV 19, SOFTWARE
 <br/><br/>
 
 
@@ -18,3 +16,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ks0689)](https://solved.ac/ks0689)
 
+<h6> 상대방은 멀어지는데, 넌 뭐하냐? </h6>

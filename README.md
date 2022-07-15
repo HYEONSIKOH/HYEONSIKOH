@@ -1,6 +1,8 @@
 <div align = "center">
 
 SANGMYUNG UNIV 19, SOFTWARE
+
+Day - 1 commit
 <br/><br/>
 
 

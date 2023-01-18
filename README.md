@@ -12,7 +12,7 @@ SANGMYUNG UNIV 19, SOFTWARE
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
 <br/><br/>
-![HYEONSIKOH's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYEONSIKOH&show_icons=true&theme=radical)
+![HYEONSIKOH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonsik&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYEONSIKOH&layout=compact&theme=radical)
 

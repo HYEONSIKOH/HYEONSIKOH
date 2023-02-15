@@ -14,8 +14,4 @@ SANGMYUNG UNIV 19, SOFTWARE
 <br/><br/>
 ![My Git's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonsik&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeonsik&layout=compact&theme=radical)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ks0689)](https://solved.ac/ks0689)
-
 <h6> 상대방은 멀어지는데, 넌 뭐하냐? </h6>

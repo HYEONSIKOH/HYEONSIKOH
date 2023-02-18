@@ -13,8 +13,8 @@ SANGMYUNG UNIV 19, SOFTWARE
 
 <h4>📚 Study 📚</h4>
 <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Mysql-4479A1.svg?style=flat-square&logo=MYSQL&logoColor=white"/> 
-<img src="https://img.shields.io/badge/SWIFT-F05138.svg?style=flat-square&logo=SWIFT&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Mysql-4479A1.svg?style=flat-square&logo=MYSQL&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/Swift-F05138.svg?style=flat-square&logo=SWIFT&logoColor=white"/> 
 
 <br/><br/>
 ![My Git's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonsik&show_icons=true&theme=radical)

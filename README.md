@@ -1,4 +1,6 @@
 <div align = "center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=OHS%20Github!&fontSize=90" />
 
 SANGMYUNG UNIV 19, SOFTWARE
 
@@ -15,6 +17,15 @@ SANGMYUNG UNIV 19, SOFTWARE
 <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Mysql-4479A1.svg?style=flat-square&logo=MYSQL&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/Swift-F05138.svg?style=flat-square&logo=SWIFT&logoColor=white"/> 
+  
+<h4>📭 Contact & SNS 📭</h4>
+<a href="https://www.instagram.com/sik_407" target=_blank>
+<img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sik_407"/> 
+</a>
+<img src="https://img.shields.io/badge/Mail-03C75A.svg?style=flat-square&logo=naver&logoColor=white"/>
+<a href="https://blog.naver.com/dev_ohs" target=_blank>
+<img src="https://img.shields.io/badge/Blog-FF5722.svg?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.naver.com/dev_ohs"/> 
+</a>
 
 <br/><br/>
 ![My Git's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonsik&show_icons=true&theme=radical)

@@ -22,7 +22,9 @@ SANGMYUNG UNIV 19, SOFTWARE
 <a href="https://www.instagram.com/sik_407" target=_blank>
 <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sik_407"/> 
 </a>
-<img src="https://img.shields.io/badge/Mail-03C75A.svg?style=flat-square&logo=naver&logoColor=white"/>
+<a href="mailto:ks06891@naver.com">
+<img src="https://img.shields.io/badge/Mail-03C75A.svg?style=flat-square&logo=naver&logoColor=white&link=mailto:ks06891@naver.com"/>
+</a>
 <a href="https://blog.naver.com/dev_ohs" target=_blank>
 <img src="https://img.shields.io/badge/Blog-FF5722.svg?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.naver.com/dev_ohs"/> 
 </a>

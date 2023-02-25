@@ -32,4 +32,4 @@ SANGMYUNG UNIV 19, SOFTWARE
 <br/><br/>
 ![My Git's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonsik&show_icons=true&theme=radical)
 
-<h6> 상대방은 멀어지는데, 넌 뭐하냐? </h6>
+<h6> 상대방은 멀어지는데, 넌 뭐하냐?? </h6>

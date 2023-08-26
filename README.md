@@ -25,9 +25,15 @@ SANGMYUNG UNIV 19, SOFTWARE
 <a href="mailto:ks06891@naver.com">
 <img src="https://img.shields.io/badge/Mail-03C75A.svg?style=flat-square&logo=naver&logoColor=white&link=mailto:ks06891@naver.com"/>
 </a>
-<a href="https://blog.naver.com/dev_ohs" target=_blank>
+
+Naver: <a href="https://blog.naver.com/dev_ohs" target=_blank>
 <img src="https://img.shields.io/badge/Blog-FF5722.svg?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.naver.com/dev_ohs"/> 
 </a>
+
+velog: <a href="https://velog.io/@ks0689" target=_blank>
+<img src="https://img.shields.io/badge/Blog-FF5722.svg?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.naver.com/dev_ohs"/> 
+</a>
+
 
 <br/><br/>
 ![My Git's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonsik&show_icons=true&theme=radical)

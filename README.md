@@ -8,11 +8,7 @@
 ![My Git's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonsik&show_icons=true&theme=radical) [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ks0689)](https://solved.ac/ks0689)
 <br><br>
 
-## 💻 Mindset
-
-#### 📝 문제의 코드 속에서 답을 찾는 재미를 느끼는 개발자
-#### 🎮 개발을 게임처럼 즐기고 성취감을 느끼는 개발자
-#### 👨‍🔬 기술을 탐구하며, 동시에 새로운 도전을 즐기는 개발자
+## 🎤 Introduce
 
 <br>
 도전과 실패 속에서 배우며 조금이라도 더 나아가고자 노력하는 개발자가 되겠습니다!

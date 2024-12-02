@@ -8,6 +8,19 @@
 ![My Git's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonsik&show_icons=true&theme=radical) [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ks0689)](https://solved.ac/ks0689)
 <br><br>
 
+## 💻 Mindset
+
+#### 📝 문제의 코드 속에서 답을 찾는 재미를 느끼는 개발자
+#### 🎮 개발을 게임처럼 즐기고 성취감을 느끼는 개발자
+#### 👨‍🔬 기술을 탐구하며, 동시에 새로운 도전을 즐기는 개발자
+
+<br>
+도전과 실패 속에서 배우며 조금이라도 더 나아가고자 노력하는 개발자가 되겠습니다!
+
+<h6> 상대방은 나아가는데, 넌 뭐하냐? </h6>
+
+<br><br>
+
 ## 📝 Portfolio & Blog 📝
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ks0689)](https://velog.io/@ks0689/posts)
 <h6>(Portfolio 제작 중...)</h6>
@@ -25,29 +38,19 @@
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=Docker&logoColor=white"/>
 </div> 
 
-## 📚 Studying... 📚</h4>
+### 📚 Studying... 📚</h4>
 <div>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat-square&logo=kotlin&logoColor=white"/>
 </div>
 
 <br><br>
 
-#### 📝 문제의 코드 속에서 답을 찾는 재미를 느끼는 개발자
-#### 🎮 개발을 게임처럼 즐기고 성취감을 느끼는 개발자
-#### 👨‍🔬 기술을 탐구하며, 동시에 새로운 도전을 즐기는 개발자
-
-<br>
-도전과 실패 속에서 배우며 조금이라도 더 나아가고자 노력하는 개발자가 되겠습니다!
-
-<h6> 상대방은 나아가는데, 넌 뭐하냐? </h6>
-
-<br><br>
 <hr>
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/HYEONSIKOH"
-  width="410"
-  height="195"
+  width="600"
+  height="300"
 />
 </a>
 

@@ -36,7 +36,7 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/HYEONSIKOH"
-  width="600"
-  height="300"
+  width="470"
+  height="235"
 />
 </a>

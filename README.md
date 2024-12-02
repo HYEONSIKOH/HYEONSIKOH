@@ -25,14 +25,14 @@
 
 ## 🔨 Tech Stack 🔧
 <div>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <br>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-4479A1.svg?style=flat-square&logo=MYSQL&logoColor=white"/> <br>
-  <img src="https://img.shields.io/badge/Aws-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.icons8.com/color/35/c-plus-plus-logo.png" alt="C++ Icon"/>
+  <img src="https://img.icons8.com/color/35/java-coffee-cup-logo--v1.png">  
+  <img src="https://img.icons8.com/color/35/spring-logo.png"/> 
+  <img src="https://img.icons8.com/color/35/mysql-logo.png" alt="MySQL Icon"/>
+  <img src="https://img.icons8.com/color/35/amazon-web-services.png" alt="AWS Icon"/>
+  <img src="https://img.icons8.com/color/35/docker.png" alt="Docker Icon"/>
 </div> 
+<br>
 
 ### 📚 Studying... 📚</h4>
 <div>

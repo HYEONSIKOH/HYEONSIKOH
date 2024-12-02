@@ -8,7 +8,7 @@
 ![My Git's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonsik&show_icons=true&theme=radical) [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ks0689)](https://solved.ac/ks0689)
 <br><br>
 
-## 🎤 Introduce
+## 🎤 Introduction
 
 <br>
 도전과 실패 그리고 갈등 속에서 배우며 조금이라도 더 나아가고자 노력하는 개발자가 되겠습니다!

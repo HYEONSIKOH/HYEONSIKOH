@@ -34,7 +34,7 @@
 
 | Lang  | Server | ETC |
 | --- | -- | -- |
-| <img src="https://img.icons8.com/color/35/c-plus-plus-logo.png" alt="C++ Icon"/>  <img src="https://img.icons8.com/color/35/java-coffee-cup-logo--v1.png" alt="Java Icon"/> | <img src="https://img.icons8.com/color/35/nginx.png" alt="Nginx Icon"/>  <img src="https://img.icons8.com/color/35/spring-logo.png" alt="Spring Icon"/> <img src="https://img.icons8.com/color/35/mysql-logo.png" alt="MySQL Icon"/>| <img src="https://img.icons8.com/color/35/amazon-web-services.png" alt="AWS Icon"/>  <img src="https://img.icons8.com/color/35/docker.png" alt="Docker Icon"/>  <img src="https://img.icons8.com/color/35/linux.png" alt="Linux Icon"/>|
+| <img src="https://img.icons8.com/color/35/c-programming.png" alt="C++ Icon"/> <img src="https://img.icons8.com/color/35/c-plus-plus-logo.png" alt="C++ Icon"/>  <img src="https://img.icons8.com/color/35/java-coffee-cup-logo--v1.png" alt="Java Icon"/> | <img src="https://img.icons8.com/color/35/nginx.png" alt="Nginx Icon"/>  <img src="https://img.icons8.com/color/35/spring-logo.png" alt="Spring Icon"/> <img src="https://img.icons8.com/color/35/mysql-logo.png" alt="MySQL Icon"/>| <img src="https://img.icons8.com/color/35/amazon-web-services.png" alt="AWS Icon"/>  <img src="https://img.icons8.com/color/35/docker.png" alt="Docker Icon"/>  <img src="https://img.icons8.com/color/35/linux.png" alt="Linux Icon"/>|
 
 ### 📚 Studying...
 <div>

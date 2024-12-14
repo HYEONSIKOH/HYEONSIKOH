@@ -18,8 +18,12 @@
 <br><br>
 
 ## 📝 Portfolio & Blog 📝
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ks0689)](https://velog.io/@ks0689/posts)
-<h6>(Portfolio 제작 중...)</h6>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ks0689)](https://velog.io/@ks0689/posts) <br><br>
+
+<h4>포트폴리오 링크!</h4>
+<h6>(현재 계속 수정 중 입니다...)</h6>
+ 
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-blue)](https://portfolio-hyeonsik-ohs-projects.vercel.app/)
 
 <br><br>
 

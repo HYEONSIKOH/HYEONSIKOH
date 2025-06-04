@@ -5,7 +5,10 @@
 #### Studying Backend & Spring!
 <br>
 
-![My Git's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonsik&show_icons=true&theme=radical) [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ks0689)](https://solved.ac/ks0689)
+![My Git's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonsik&show_icons=true&theme=radical) <br>
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ks06891)](https://solved.ac/ks06891) <br>
+
+다시 1일 1~2문제!
 <br><br>
 
 ## 🎤 Introduction

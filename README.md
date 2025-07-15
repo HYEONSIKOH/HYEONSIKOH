@@ -1,15 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+My+GitHub!)](https://git.io/typing-svg)
 
-## Hello world👋
+## 👋 Hello world
 ### HYEONSIK OH`s GitHub
 #### Studying Backend & Spring!
 <br>
-
-![My Git's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonsik&show_icons=true&theme=radical) <br>
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ks06891)](https://solved.ac/ks06891) <br>
-
-다시 1일 1~2문제!
-<br><br>
 
 ## 🎤 Introduction
 
@@ -24,6 +18,12 @@
 
 <br><br>
 
+## 🔄 Algorithm
+[![ks06891's solved.ac stats](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=ks06891)](https://solved.ac/profile/ks06891)
+
+다시 1일 1~2문제!
+<br><br>
+
 ## 📝 Portfolio & Blog 📝
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ks0689)](https://velog.io/@ks0689/posts) <br><br>
 
@@ -34,7 +34,7 @@
 
 <br><br>
 
-## 🔨 Tech Stack 🔧
+## 🔨 Tech Stack
 <p>
 주로 Java와 Spring Boot를 사용하여 API 서버를 구축하고, MySQL과 MariaDB를 데이터베이스로 활용한 경험이 있습니다. <br>
 또한, AWS EC2와 로드밸런싱을 이용해 Linux 환경에서 프로젝트를 배포해본 경험이 있으며, Nginx와 홈서버를 활용해 자체 서버를 구축한 경험도 있습니다.

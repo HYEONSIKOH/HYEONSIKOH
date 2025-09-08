@@ -1,72 +1,78 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+My+GitHub!)](https://git.io/typing-svg)
 
-## 👋 Hello world
-### HYEONSIK OH`s GitHub
-#### Studying Backend & Spring!
-<br>
+## 📝 Portfolio 📝
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ks0689)](https://velog.io/@ks0689/posts) <br><br> -->
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-3DDC84?style=for-the-badge&logo=Blogger&logoColor=white)](https://portfolio-hyeonsik-ohs-projects.vercel.app/)
 
-## 🎤 Introduction
 
-<br>
-🌱 새로운 도전을 시도하며 끊임없이 성장하고자 하는 개발자 <br>
-🔍 선택에 이유가 있는 개발자  <br>
-🤝 함께 성장하는 협업 중심의 개발자 <br>
-<br>
-이 3가지를 지향하는 신입 백엔드 개발자 입니다!
+<br><br>
 
-<h6> 상대방은 나아가는데, 넌 뭐하냐? </h6>
+## 🔨 Tech Stack
+
+<div>
+ <div>
+  <a>Lang</a> <br>
+  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyB3aWR0aD0iMTUwcHgiIGhlaWdodD0iMTUwcHgiIHZpZXdCb3g9IjAgMCAzMi4wMCAzMi4wMCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBmaWxsPSIjZmZmZmZmIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMC4yNTYiPgoNPGcgaWQ9IlNWR1JlcG9fYmdDYXJyaWVyIiBzdHJva2Utd2lkdGg9IjAiLz4KDTxnIGlkPSJTVkdSZXBvX3RyYWNlckNhcnJpZXIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgoNPGcgaWQ9IlNWR1JlcG9faWNvbkNhcnJpZXIiPiA8cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMTIuNTU3IDIzLjIyYzAgMC0wLjk4MiAwLjU3MSAwLjY5OSAwLjc2NSAyLjAzNyAwLjIzMiAzLjA3OSAwLjE5OSA1LjMyNC0wLjIyNiAwIDAgMC41OSAwLjM3IDEuNDE1IDAuNjkxLTUuMDMzIDIuMTU3LTExLjM5LTAuMTI1LTcuNDM3LTEuMjN6TTExLjk0MiAyMC40MDVjMCAwLTEuMTAyIDAuODE2IDAuNTgxIDAuOTkgMi4xNzYgMC4yMjQgMy44OTUgMC4yNDMgNi44NjktMC4zMyAwIDAgMC40MTEgMC40MTcgMS4wNTggMC42NDUtNi4wODUgMS43NzktMTIuODYzIDAuMTQtOC41MDgtMS4zMDV6TTE3LjEyNyAxNS42M2MxLjI0IDEuNDI4LTAuMzI2IDIuNzEzLTAuMzI2IDIuNzEzczMuMTQ5LTEuNjI1IDEuNzAzLTMuNjYxYy0xLjM1MS0xLjg5OC0yLjM4Ni0yLjg0MSAzLjIyMS02LjA5MyAwIDAtOC44MDEgMi4xOTgtNC41OTggNy4wNDJ6TTIzLjc4MyAyNS4zMDJjMCAwIDAuNzI3IDAuNTk5LTAuODAxIDEuMDYyLTIuOTA1IDAuODgtMTIuMDkxIDEuMTQ2LTE0LjY0MyAwLjAzNS0wLjkxNy0wLjM5OSAwLjgwMy0wLjk1MyAxLjM0NC0xLjA2OSAwLjU2NC0wLjEyMiAwLjg4Ny0wLjEgMC44ODctMC4xLTEuMDIwLTAuNzE5LTYuNTk0IDEuNDExLTIuODMxIDIuMDIxIDEwLjI2MiAxLjY2NCAxOC43MDYtMC43NDkgMTYuMDQ0LTEuOTV6TTEzLjAyOSAxNy40ODljMCAwLTQuNjczIDEuMTEtMS42NTUgMS41MTMgMS4yNzQgMC4xNzEgMy44MTQgMC4xMzIgNi4xODEtMC4wNjYgMS45MzQtMC4xNjMgMy44NzYtMC41MSAzLjg3Ni0wLjUxcy0wLjY4MiAwLjI5Mi0xLjE3NSAwLjYyOWMtNC43NDUgMS4yNDgtMTMuOTExIDAuNjY3LTExLjI3Mi0wLjYwOSAyLjIzMi0xLjA3OSA0LjA0Ni0wLjk1NiA0LjA0Ni0wLjk1NnpNMjEuNDEyIDIyLjE3NGM0LjgyNC0yLjUwNiAyLjU5My00LjkxNSAxLjAzNy00LjU5MS0wLjM4MiAwLjA3OS0wLjU1MiAwLjE0OC0wLjU1MiAwLjE0OHMwLjE0Mi0wLjIyMiAwLjQxMi0wLjMxOGMzLjA3OS0xLjA4MyA1LjQ0OCAzLjE5My0wLjk5NCA0Ljg4Ny0wIDAgMC4wNzUtMC4wNjcgMC4wOTctMC4xMjZ6TTE4LjUwMyAzLjMzN2MwIDAgMi42NzEgMi42NzItMi41MzQgNi43ODEtNC4xNzQgMy4yOTYtMC45NTIgNS4xNzYtMC4wMDIgNy4zMjMtMi40MzYtMi4xOTgtNC4yMjQtNC4xMzMtMy4wMjUtNS45MzQgMS43NjEtMi42NDQgNi42MzgtMy45MjUgNS41Ni04LjE3ek0xMy41MDMgMjguOTY2YzQuNjMgMC4yOTYgMTEuNzQtMC4xNjQgMTEuOTA4LTIuMzU1IDAgMC0wLjMyNCAwLjgzMS0zLjgyNiAxLjQ5LTMuOTUyIDAuNzQ0LTguODI2IDAuNjU3LTExLjcxNiAwLjE4IDAgMCAwLjU5MiAwLjQ5IDMuNjM1IDAuNjg1eiIvPiA8L2c+Cg08L3N2Zz4="/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript Badge"/>
+ </div> <br>
+
+ <div>
+  <a>Framework</a> <br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
+ </div> <br>
+ 
+ <div>
+  <a>RDBMS</a> <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white"/> 
+ </div> <br>
+ 
+ <div>
+  <a>Cache & Message Broker</a> <br>
+  <img src="https://img.shields.io/badge/Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+ </div> <br>
+
+ <div>
+  <a>DevOps & CI/CD</a> <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/> <br>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GHCR-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <br>
+ </div> <br>
+
+ <div>
+  <a>Cloud</a> <br>
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCAyNCI+CiAgPHRleHQgeD0iMCIgeT0iMTgiIGZvbnQtZmFtaWx5PSJBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmIiBmb250LXdlaWdodD0iNzAwIiBmb250LXNpemU9IjE4IiBmaWxsPSIjRkY5OTAwIj5BV1M8L3RleHQ+Cjwvc3ZnPg=="/>
+ </div> <br>
+
+ <div>
+  <a>ETC</a> <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Flask-1E293B?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/>
+  <img src="https://img.shields.io/badge/YOLO-0F2B46?style=for-the-badge&logo=deepl&logoColor=white" alt="YOLO Badge"/>
+ </div>
+</div>
 
 <br><br>
 
 ## 🔄 Algorithm
 [![ks06891's solved.ac stats](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=ks06891)](https://solved.ac/profile/ks06891)
 
-다시 1일 1~2문제!
-<br><br>
-
-## 📝 Portfolio & Blog 📝
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ks0689)](https://velog.io/@ks0689/posts) <br><br>
-
-<h4>포트폴리오 링크!</h4>
-<h6>(현재 계속 수정 중 입니다...)</h6>
- 
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-blue)](https://portfolio-hyeonsik-ohs-projects.vercel.app/)
-
-<br><br>
-
-## 🔨 Tech Stack
-<p>
-주로 Java와 Spring Boot를 사용하여 API 서버를 구축하고, MySQL과 MariaDB를 데이터베이스로 활용한 경험이 있습니다. <br>
-또한, AWS EC2와 로드밸런싱을 이용해 Linux 환경에서 프로젝트를 배포해본 경험이 있으며, Nginx와 홈서버를 활용해 자체 서버를 구축한 경험도 있습니다.
-
-백엔드 엔지니어는 프론트엔드를 몰라도 된다는 고정관념을 깨기 위해 React를 이용해 UI를 구현하고, Axios를 통해 API 통신을 구축한 경험도 있습니다.
-</p>
-<br>
-
-| Lang  | Server | ETC |
-| --- | -- | -- |
-| <img src="https://img.icons8.com/color/35/c-programming.png" alt="C++ Icon"/> <img src="https://img.icons8.com/color/35/c-plus-plus-logo.png" alt="C++ Icon"/>  <img src="https://img.icons8.com/color/35/java-coffee-cup-logo--v1.png" alt="Java Icon"/> | <img src="https://img.icons8.com/color/35/nginx.png" alt="Nginx Icon"/>  <img src="https://img.icons8.com/color/35/spring-logo.png" alt="Spring Icon"/> <img src="https://img.icons8.com/color/35/mysql-logo.png" alt="MySQL Icon"/>| <img src="https://img.icons8.com/color/35/amazon-web-services.png" alt="AWS Icon"/>  <img src="https://img.icons8.com/color/35/docker.png" alt="Docker Icon"/>  <img src="https://img.icons8.com/color/35/linux.png" alt="Linux Icon"/>|
-
-### 📚 Studying...
-<div>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat-square&logo=kotlin&logoColor=white"/>
-</div>
-
-### ✅ Once I used
-<div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/YOLO-0F2B46?style=flat-square&logo=deepl&logoColor=white" alt="YOLO Badge"/>
-</div>
-
-<br><br>
+<br><br><br><br>
+<br><br><br><br>
 
 <hr>
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/HYEONSIKOH"
-  width="600"
-  height="300"
+  width="400"
+  height="200"
 />
 </a>
 

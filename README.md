@@ -2,8 +2,10 @@
 
 ## 📝 Portfolio
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ks0689)](https://velog.io/@ks0689/posts) <br><br> -->
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-0F766E?style=for-the-badge&logo=Blogger&logoColor=white)](https://portfolio-hyeonsik-ohs-projects.vercel.app/)
-
+ [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-0F766E?style=for-the-badge&logo=Blogger&logoColor=white)](https://portfolio-hyeonsik-ohs-projects.vercel.app/)
+ 
+ 
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ks0689)](https://velog.io/@ks0689/posts)
 
 <br><br>
 

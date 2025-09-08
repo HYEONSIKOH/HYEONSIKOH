@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+My+GitHub!)](https://git.io/typing-svg)
 
-## 📝 Portfolio 📝
+## 📝 Portfolio
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ks0689)](https://velog.io/@ks0689/posts) <br><br> -->
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-3DDC84?style=for-the-badge&logo=Blogger&logoColor=white)](https://portfolio-hyeonsik-ohs-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-0F766E?style=for-the-badge&logo=Blogger&logoColor=white)](https://portfolio-hyeonsik-ohs-projects.vercel.app/)
 
 
 <br><br>

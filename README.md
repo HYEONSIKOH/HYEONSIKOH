@@ -2,12 +2,18 @@
 
 ## 📝 Portfolio
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ks0689)](https://velog.io/@ks0689/posts) <br><br> -->
- [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-0F766E?style=for-the-badge&logo=Blogger&logoColor=white)](https://portfolio-hyeonsik-ohs-projects.vercel.app/)
- 
- 
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ks0689)](https://velog.io/@ks0689/posts)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-0F766E?style=for-the-badge&logo=Blogger&logoColor=white)](https://portfolio-hyeonsik-ohs-projects.vercel.app/)
+<br><br><br>
 
-<br><br>
+## ✍️ Tech blog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ks0689)](https://velog.io/@ks0689/posts)
+<br><br><br>
+
+## 🔄 Algorithm
+<!--[![ks06891's solved.ac stats](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=ks06891)](https://solved.ac/profile/ks06891)-->
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ks06891)](https://solved.ac/ks06891) 
+![Solved.ac 프로필](http://mazandi.herokuapp.com/api?handle=ks06891)
+<br><br><br>
 
 ## 🔨 Tech Stack
 
@@ -60,12 +66,6 @@
   <img src="https://img.shields.io/badge/YOLO-0F2B46?style=for-the-badge&logo=deepl&logoColor=white" alt="YOLO Badge"/>
  </div>
 </div>
-
-<br><br>
-
-## 🔄 Algorithm
-[![ks06891's solved.ac stats](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=ks06891)](https://solved.ac/profile/ks06891)
-
 <br><br><br><br>
 <br><br><br><br>
 

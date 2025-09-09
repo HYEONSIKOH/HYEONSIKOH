@@ -12,7 +12,7 @@
 ## 🔄 Algorithm
 <!--[![ks06891's solved.ac stats](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=ks06891)](https://solved.ac/profile/ks06891)-->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ks06891)](https://solved.ac/ks06891) 
-![Solved.ac 프로필](http://mazandi.herokuapp.com/api?handle=ks06891)
+![Solved.ac 프로필](http://mazandi.herokuapp.com/api?handle=ks06891&theme=dark)
 <br><br><br>
 
 ## 🔨 Tech Stack

@@ -66,15 +66,12 @@
   <img src="https://img.shields.io/badge/YOLO-0F2B46?style=for-the-badge&logo=deepl&logoColor=white" alt="YOLO Badge"/>
  </div>
 </div>
-<br><br><br><br>
-<br><br><br><br>
 
-<hr>
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/HYEONSIKOH"
-  width="400"
-  height="200"
-/>
+<div>
+ <!-- <a href="https://github.com/devxb/gitanimals">
+   <img src="https://render.gitanimals.org/farms/HYEONSIKOH" width="600" height="300"/>
+ </a> -->
+ <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/hyeonsikoh?pet-id=684097412005967769" width="1000" height="120"/>
 </a>
-
+</div>
